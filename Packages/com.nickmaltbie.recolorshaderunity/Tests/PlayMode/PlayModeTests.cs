@@ -17,7 +17,6 @@
 // SOFTWARE.
 
 using System.Collections;
-using nickmaltbie.RecolorShaderUnity;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
