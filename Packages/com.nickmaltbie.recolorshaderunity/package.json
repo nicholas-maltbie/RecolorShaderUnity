@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "unity": "2021.3",
   "unityRelease": "11f1",
-  "description": "RecolorShaderUnity for creating and sharing assets.",
+  "description": "RecolorShaderUnity for recoloring black and white images.",
   "author": {
     "name": "Nick Maltbie",
     "email": "nick.dmalt@gmail.com",
@@ -12,14 +12,39 @@
   },
   "documentationUrl": "https://nickmaltbie.com/RecolorShaderUnity/docs",
   "keywords": [
-    "template",
-    "package"
+    "recolor",
+    "shader"
   ],
   "samples": [
     {
-      "displayName": "Example Sample",
-      "description": "Example Sample folder for template project.",
-      "path": "Samples~/ExampleSample"
+      "displayName": "1 - Hello Shaders",
+      "description": "Basic Shader introduction.",
+      "path": "Samples~/1 - Hello Shaders"
+    },
+    {
+      "displayName": "2 - Colored Shaders",
+      "description": "Create a solid color shader.",
+      "path": "Samples~/2 - Colored Shaders"
+    },
+    {
+      "displayName": "3 - Recoloring Images",
+      "description": "Recoloring a black and white image.",
+      "path": "Samples~/3 - Recoloring Images"
+    },
+    {
+      "displayName": "4 - Combining Images",
+      "description": "Combining two images together.",
+      "path": "Samples~/4 - Combining Images"
+    },
+    {
+      "displayName": "5 - Final Combination",
+      "description": "Recoloring a black and white image two different colors.",
+      "path": "Samples~/5 - Final Combination"
+    },
+    {
+      "displayName": "6 - Bonus",
+      "description": "Fun bonus with animation.",
+      "path": "Samples~/6 - Bonus"
     }
   ],
   "license": "MIT"

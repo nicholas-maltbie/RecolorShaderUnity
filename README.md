@@ -27,7 +27,7 @@ Here is a summary of the various examples in this project. Each link provides a 
 and the final link shows the completed shader in action.
 
 1. [Hello Shaders](Demo/1.HelloShaders.md) - Basic Shader introduction.
-2. [Colored Shaders](Demo/2.ColoredShaders.md) - Create a solid color shader. 
+2. [Colored Shaders](Demo/2.ColoredShaders.md) - Create a solid color shader.
 3. [Recoloring Images](Demo/3.RecoloringImages.md) - Recoloring a black and white image.
 4. [Combining Images](Demo/4.CombiningImages.md) - Combining two images together.
 5. [Final Combination](Demo/5.FinalCombination.md) - Recoloring a black and white image two different colors.
