@@ -161,7 +161,7 @@ do
   echo "Moving sample at path \"$sample\" to \"$dest\""
 
   # Setup sample directory
-  mkdir -p "$(dirname $dest)"
+  mkdir -p "$package_path/Samples~/"
   git mv "$sample.meta" "$dest.meta"
   git mv "$sample/" "$dest/"
 done
