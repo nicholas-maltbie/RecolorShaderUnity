@@ -56,4 +56,3 @@ recolor grey scale using the shaders and materials in this project!
 
 If you want to help with the project, feel free to make some changes
 and submit a PR to the repo.
-
