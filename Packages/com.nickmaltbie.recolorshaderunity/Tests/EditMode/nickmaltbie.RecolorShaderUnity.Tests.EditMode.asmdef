@@ -1,0 +1,21 @@
+{
+    "name": "nickmaltbie.RecolorShaderUnity.Tests.EditMode",
+    "rootNamespace": "nickmaltbie.RecolorShaderUnity.Tests.EditMode",
+    "references": [
+        "nickmaltbie.RecolorShaderUnity"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

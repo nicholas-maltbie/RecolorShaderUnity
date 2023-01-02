@@ -1,0 +1,19 @@
+{
+    "name": "nickmaltbie.RecolorShaderUnity.Tests.PlayMode",
+    "rootNamespace": "nickmaltbie.RecolorShaderUnity.Tests.PlayMode",
+    "references": [
+        "nickmaltbie.RecolorShaderUnity"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
