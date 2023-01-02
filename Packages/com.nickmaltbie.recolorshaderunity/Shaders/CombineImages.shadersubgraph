@@ -1,5 +1,5 @@
 {
-    "m_SGVersion": 2,
+    "m_SGVersion": 3,
     "m_Type": "UnityEditor.ShaderGraph.GraphData",
     "m_ObjectId": "dbb0002e0cd3404099d7161917048af9",
     "m_Properties": [
@@ -14,6 +14,12 @@
         }
     ],
     "m_Keywords": [],
+    "m_Dropdowns": [],
+    "m_CategoryData": [
+        {
+            "m_Id": "8741613307134074a6a0b5a0ce1fe063"
+        }
+    ],
     "m_Nodes": [
         {
             "m_Id": "0b45ac7d9fd549bfacc232c94948001e"
@@ -225,10 +231,11 @@
         "serializedMesh": {
             "m_SerializedMesh": "{\"mesh\":{\"instanceID\":0}}",
             "m_Guid": ""
-        }
+        },
+        "preventRotation": false
     },
     "m_Path": "Sub Graphs",
-    "m_ConcretePrecision": 0,
+    "m_GraphPrecision": 0,
     "m_PreviewMode": 2,
     "m_OutputNode": {
         "m_Id": "0b45ac7d9fd549bfacc232c94948001e"
@@ -279,9 +286,13 @@
         "m_GuidSerialized": "c5275f49-94cb-4443-9ef1-b290cc77f94e"
     },
     "m_Name": "Mask",
+    "m_DefaultRefNameVersion": 0,
+    "m_RefNameGeneratedByDisplayName": "",
     "m_DefaultReferenceName": "Vector4_04398915d2904a63b43babfcf52f57b4",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
@@ -557,9 +568,13 @@
         "m_GuidSerialized": "e0a95189-5e15-4858-85e2-372404b9f6e4"
     },
     "m_Name": "Image 1",
+    "m_DefaultRefNameVersion": 0,
+    "m_RefNameGeneratedByDisplayName": "",
     "m_DefaultReferenceName": "Vector4_3405e6f67f47409fbf561c7c820e8853",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
@@ -748,9 +763,13 @@
         "m_GuidSerialized": "f096ec5e-5687-4f2d-a55d-1643d3ca4717"
     },
     "m_Name": "Image 2",
+    "m_DefaultRefNameVersion": 0,
+    "m_RefNameGeneratedByDisplayName": "",
     "m_DefaultReferenceName": "Vector4_78aa24aac56f4e9fb7c645bc3f7cf85a",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
+    "m_UseCustomSlotLabel": false,
+    "m_CustomSlotLabel": "",
     "m_Precision": 0,
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
@@ -844,6 +863,24 @@
         "z": 0.0,
         "w": 0.0
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.CategoryData",
+    "m_ObjectId": "8741613307134074a6a0b5a0ce1fe063",
+    "m_Name": "",
+    "m_ChildObjectList": [
+        {
+            "m_Id": "04398915d2904a63b43babfcf52f57b4"
+        },
+        {
+            "m_Id": "3405e6f67f47409fbf561c7c820e8853"
+        },
+        {
+            "m_Id": "78aa24aac56f4e9fb7c645bc3f7cf85a"
+        }
+    ]
 }
 
 {
