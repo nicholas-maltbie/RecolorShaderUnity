@@ -1,10 +1,10 @@
-# Template Unity Package
+# RecolorShaderUnity
 
-Nick Maltbie's Template Unity Package for easily creating and sharing unity
+Nick Maltbie's RecolorShaderUnity for easily creating and sharing unity
 packages over git and NPM.
 
-Template Unity Package is an open source project hosted at
-[https://github.com/nicholas-maltbie/TemplateUnityPackage](https://github.com/nicholas-maltbie/TemplateUnityPackage)
+RecolorShaderUnity is an open source project hosted at
+[https://github.com/nicholas-maltbie/RecolorShaderUnity](https://github.com/nicholas-maltbie/RecolorShaderUnity)
 
 This is an open source project licensed under a [MIT License](LICENSE.txt).
 
@@ -12,7 +12,7 @@ This is an open source project licensed under a [MIT License](LICENSE.txt).
 
 Install the latest version of the project by importing a project via git
 at this URL:
-`https://github.com/nicholas-maltbie/TemplateUnityPackage.git#release/latest`
+`https://github.com/nicholas-maltbie/RecolorShaderUnity.git#release/latest`
 
 If you want to reference a specific tag of the project such as version `v1.0.0`,
 add a `release/#v1.0.0` to the end of the git URL to download the package
@@ -20,16 +20,16 @@ from th auto-generated branch for that release. An example of importing `v1.0.0`
 would look like this:
 
 ```text
-https://github.com/nicholas-maltbie/TemplateUnityPackage.git#release/v0.1.0
+https://github.com/nicholas-maltbie/RecolorShaderUnity.git#release/v0.1.0
 ```
 
 To use the latest release, simply reference:
 
 ```text
-https://github.com/nicholas-maltbie/TemplateUnityPackage.git#release/latest
+https://github.com/nicholas-maltbie/RecolorShaderUnity.git#release/latest
 ```
 
-For a full list of all tags, check the [TemplateUnityPackage Tags](https://github.com/nicholas-maltbie/TemplateUnityPackage/tags)
+For a full list of all tags, check the [RecolorShaderUnity Tags](https://github.com/nicholas-maltbie/RecolorShaderUnity/tags)
 list on github. I will usually associated a tag with each release of the project.
 
 _Note_: before I started using the package format for the project, I manually
@@ -42,7 +42,7 @@ experimental or breaking changes in the project.
 
 You can also import the project via a tarball if you download the source
 code and extract it on your local machine. Make sure to import
-via the package manifest defined at `Packages\com.nickmaltbie.TemplateUnityPackage\package.json`
+via the package manifest defined at `Packages\com.nickmaltbie.RecolorShaderUnity\package.json`
 within the project.
 
 For more details about installing a project via git, see unity's documentation
@@ -74,26 +74,26 @@ manager will be able to download it from the registry at
 
 ```json
 "dependencies": {
-  "com.nickmaltbie.TemplateUnityPackage": "1.0.0",
+  "com.nickmaltbie.RecolorShaderUnity": "1.0.0",
 }
 ```
 
 ### Tests
 
 If you wish to include the testing code for this project, make sure to add
-the `com.nickmaltbie.TemplateUnityPackage` to the testables
+the `com.nickmaltbie.RecolorShaderUnity` to the testables
 of the project manifest.
 
 ```json
   "testables": [
-    "com.nickmaltbie.TemplateUnityPackage"
+    "com.nickmaltbie.RecolorShaderUnity"
   ]
 ```
 
 ## Demo
 
 You can see a demo of the project running here:
-[https://nickmaltbie.com/TemplateUnityPackage/](https://nickmaltbie.com/TemplateUnityPackage/).
+[https://nickmaltbie.com/RecolorShaderUnity/](https://nickmaltbie.com/RecolorShaderUnity/).
 The project hosted on the website is up to date with the most recent
 version on the `main` branch of this github repo
 and is automatically deployed with each update to the codebase.
@@ -101,10 +101,10 @@ and is automatically deployed with each update to the codebase.
 ## Samples
 
 The samples in the project include:
-* ExampleSample - Example sample for Template Unity Package.
+* ExampleSample - Example sample for RecolorShaderUnity.
 
 ## Documentation
 
 Documentation on the project and scripting API is found at
-[https://nickmaltbie.com/TemplateUnityPackage/docs/](https://nickmaltbie.com/TemplateUnityPackage/docs/)
+[https://nickmaltbie.com/RecolorShaderUnity/docs/](https://nickmaltbie.com/RecolorShaderUnity/docs/)
 for the latest version of the codebase.

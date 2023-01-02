@@ -1,6 +1,6 @@
 {
-    "name": "nickmaltbie.TemplateUnityPackage",
-    "rootNamespace": "nickmaltbie.TemplateUnityPackage",
+    "name": "nickmaltbie.RecolorShaderUnity",
+    "rootNamespace": "nickmaltbie.RecolorShaderUnity",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

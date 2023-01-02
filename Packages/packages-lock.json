@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.nickmaltbie.templateunitypackage": {
-      "version": "file:com.nickmaltbie.TemplateUnityPackage",
+    "com.nickmaltbie.recolorshaderunity": {
+      "version": "file:com.nickmaltbie.recolorshaderunity",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

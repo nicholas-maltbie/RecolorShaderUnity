@@ -1,9 +1,9 @@
 apiRules:
 - include:
-    uidRegex: ^nickmaltbie\.TemplateUnityPackage
+    uidRegex: ^nickmaltbie\.RecolorShaderUnity
     type: Namespace
 - include:
-    uidRegex: ^nickmaltbie\.TemplateUnityPackage\.*
+    uidRegex: ^nickmaltbie\.RecolorShaderUnity\.*
     type: Namespace
 - exclude:
     uidRegex: .*

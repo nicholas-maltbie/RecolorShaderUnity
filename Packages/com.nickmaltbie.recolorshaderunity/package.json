@@ -1,16 +1,16 @@
 {
-  "name": "com.nickmaltbie.templateunitypackage",
-  "displayName": "Template Unity Package",
+  "name": "com.nickmaltbie.recolorshaderunity",
+  "displayName": "RecolorShaderUnity",
   "version": "1.0.0",
   "unity": "2021.3",
   "unityRelease": "11f1",
-  "description": "Template Unity Package for creating and sharing assets.",
+  "description": "RecolorShaderUnity for creating and sharing assets.",
   "author": {
     "name": "Nick Maltbie",
     "email": "nick.dmalt@gmail.com",
     "url": "https://nickmaltbie.com"
   },
-  "documentationUrl": "https://nickmaltbie.com/TemplateUnityPackage/docs",
+  "documentationUrl": "https://nickmaltbie.com/RecolorShaderUnity/docs",
   "keywords": [
     "template",
     "package"

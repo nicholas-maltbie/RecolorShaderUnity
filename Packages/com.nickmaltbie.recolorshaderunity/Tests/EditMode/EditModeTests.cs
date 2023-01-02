@@ -16,11 +16,11 @@
 // ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-using nickmaltbie.TemplateUnityPackage;
+using nickmaltbie.RecolorShaderUnity;
 using NUnit.Framework;
 using UnityEngine;
 
-namespace nickmaltbie.TemplateUnityPackage.Tests.EditMode
+namespace nickmaltbie.RecolorShaderUnity.Tests.EditMode
 {
     /// <summary>
     /// Tests meant to be run in EditMode.

@@ -1,13 +1,15 @@
 {
-    "name": "nickmaltbie.TemplateUnityPackage.Tests.PlayMode",
-    "rootNamespace": "nickmaltbie.TemplateUnityPackage.Tests.PlayMode",
+    "name": "nickmaltbie.RecolorShaderUnity.Tests.EditMode",
+    "rootNamespace": "nickmaltbie.RecolorShaderUnity.Tests.EditMode",
     "references": [
-        "nickmaltbie.TemplateUnityPackage"
+        "nickmaltbie.RecolorShaderUnity"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": true,
