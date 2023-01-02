@@ -46,12 +46,12 @@
                 "dest": "changelog"
             },
             {
-                "src": "manual",
+                "src": "Demo",
                 "files": [
                     "toc.yml",
                     "*.md"
                 ],
-                "dest": "manual"
+                "dest": "Demo"
             }
         ],
         "overwrite": [
@@ -67,7 +67,7 @@
                 "src": ".",
                 "files": [
                     "resources/**/*",
-                    "Demo/**/*",
+                    "Demo/imgs/**/*",
                     "LICENSE.txt"
                 ]
             }
