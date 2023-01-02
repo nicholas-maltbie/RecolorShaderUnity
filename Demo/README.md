@@ -1,6 +1,7 @@
 # Example Scenes
 
-This folder contains descriptions of the example scenes provided as part of this project
+This folder contains descriptions of the example scenes provided as
+part of this project
 
 Here is a list of all the samples in this project
 
